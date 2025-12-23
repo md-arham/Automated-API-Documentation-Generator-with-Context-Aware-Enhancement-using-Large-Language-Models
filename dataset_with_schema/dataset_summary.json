@@ -1,0 +1,11 @@
+{
+  "total_examples": 9381,
+  "train_size": 7504,
+  "val_size": 938,
+  "test_size": 939,
+  "type_breakdown": {
+    "operation_description": 6500,
+    "schema_description": 2850,
+    "example_summary": 31
+  }
+}
